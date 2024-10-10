@@ -3,7 +3,7 @@ This repository contains the solution to the Technical Assessment for Illumio
 
 Name: Harshith Narasimhan Srivatsa
 
-email ID: hns.harshith@gmail.com
+email ID: hns.harshith@gmail.com or hnsdynamo@gmail.com
 
 Ph No.: +1 623 287 5532
 
